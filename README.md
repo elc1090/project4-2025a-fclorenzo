@@ -1,4 +1,4 @@
-# Projeto: Aplicação Web com Persistência de Dados do Lado do Servidor
+# Projeto: Extensão Web com Persistência de Dados do Lado do Servidor
 
 ![screenshot](screenshot.png)
 
